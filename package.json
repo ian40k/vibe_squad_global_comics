@@ -1,7 +1,7 @@
 {
   "name": "index-community-comics-animation",
   "version": "1.0.0",
-  "description": "My animations and comics portfolio",
+  "description": "My animations and  comics portfolio",
   "scripts": {
     "dev": "echo 'No build needed'"
   }
